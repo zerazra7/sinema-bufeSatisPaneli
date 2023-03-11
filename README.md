@@ -1,2 +1,2 @@
-# sinema-bufeSatisPaneli
+# sinemaBufeSatisPaneli
 with C# forms
