@@ -1,0 +1,11 @@
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\büfe\obj\Debug\büfe.csproj.AssemblyReference.cache
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\büfe\obj\Debug\büfe.csproj.SuggestedBindingRedirects.cache
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\büfe\obj\Debug\büfe.Form1.resources
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\büfe\obj\Debug\büfe.Properties.Resources.resources
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\büfe\obj\Debug\büfe.csproj.GenerateResource.cache
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\büfe\obj\Debug\büfe.csproj.CoreCompileInputs.cache
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\büfe\bin\Debug\büfe.exe.config
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\büfe\bin\Debug\büfe.exe
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\büfe\bin\Debug\büfe.pdb
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\büfe\obj\Debug\büfe.exe
+C:\Users\zera\Desktop\egitim\c# dersleri\udemy\büfe\obj\Debug\büfe.pdb
